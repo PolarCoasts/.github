@@ -1,2 +1,2 @@
-# Polar Coastal Dynamics
-Site for code developed by the Polar Coastal Dynamics Group.
+# .github
+This repository holds files for documentation around this github organization and basic information about the site
